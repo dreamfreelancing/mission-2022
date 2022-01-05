@@ -130,3 +130,8 @@ p{
 h2{
     font-size: 40px;
 }
+.step4{
+    display: flex;
+    margin-bottom: 150px;
+    margin-top: 10%;
+}

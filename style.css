@@ -78,6 +78,7 @@ p{
     margin-top: 30px;
     padding-left: 25px;
     padding-bottom: 20px;
+    padding-top: 10px;
     border-radius: 10px;
     color: black;
     background-color: #EDF5F6;
@@ -101,8 +102,10 @@ p{
     margin-top: 30px;
     padding-left: 25px;
     padding-bottom: 20px;
-    padding-top: 20px;
     border-radius: 10px;
     color: black;
     background-color:#FFF4D6 ;
+}
+.images-cls{
+    width: 48%;
 }

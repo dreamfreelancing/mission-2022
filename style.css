@@ -60,6 +60,7 @@ p{
     font-size: 50px;
     font-weight: 600;
     margin-top: 30px;
+    margin-bottom: 30px;
 }
 .span{
     color: blue;
@@ -142,4 +143,21 @@ h2{
 }
 div#img-width {
     margin-top: 5%;
+}
+.last-step{
+    display: flex;
+}
+div#developer {
+    margin-top: 3%;
+}
+.ftr{
+    padding-top: 26px;
+    background-color: black;
+    color: blue;
+    text-align: center;
+    padding-bottom: 60px;
+    margin-top: 10px;
+}
+.pp{
+    color: white;
 }

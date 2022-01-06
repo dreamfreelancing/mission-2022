@@ -14,7 +14,7 @@
 }
 .img-width img{
     width: 53%;
-    margin-left: 140px;
+    margin-left: 185px;
 }
 h1{
     font-size: 59px;
@@ -131,7 +131,15 @@ h2{
     font-size: 40px;
 }
 .step4{
+    margin-left: 8%;
     display: flex;
     margin-bottom: 150px;
     margin-top: 10%;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 245px;
+    background-position: right;
+}
+div#img-width {
+    margin-top: 5%;
 }
